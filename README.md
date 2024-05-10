@@ -2,8 +2,7 @@
 
 This is a Chrome extension that generates passwords of varying lengths and displays the last 10 generated passwords.
 ## Preview
-https://github.com/Rudy9025/Base.Conversions/assets/95328967/661ce7cd-113a-4fce-8677-2ee394e4c7e8
-
+![preview](https://github.com/Rudy9025/Rudys.Weather.React/assets/95328967/93a0cdd0-c17c-4024-89a7-719ebec6a5b9)
 ## Features
 
 - Generates passwords from 8-20 characters
